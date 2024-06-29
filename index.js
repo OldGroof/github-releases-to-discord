@@ -140,7 +140,7 @@ async function run () {
 
     let embedMsg = {
         title: limit(name, 256),
-        url: html_url,
+        url: "https://www.cows.studio/",
         color: color,
         description: description,
         footer: {}
